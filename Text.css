@@ -1,0 +1,35 @@
+h2 {
+    text-align: center;
+}
+
+#digits {
+  
+    text-align: left ;
+    text-wrap: pretty ;
+    text-decoration-thickness: 100%; ;
+}
+
+#KeyBoard {
+    
+    text-align: center;
+
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#Bengali script {
+    text-wrap: pretty;
+}
+
+#A-Z {
+    text-wrap: pretty;
+}
+
+footer {
+    
+        line-height: 40px;
+        display: flex;
+        justify-content: center;
+}
